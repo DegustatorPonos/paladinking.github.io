@@ -1,0 +1,1756 @@
+[
+    {
+        "name": "Acrobat",
+        "script": "Experimental",
+        "first_night_order": "-",
+        "night_order": 8.0,
+        "ability": [
+            "Pick player(s) at night"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/b/b5/Icon_acrobat.png"
+    },
+    {
+        "name": "Al-Hadikhia",
+        "script": "Experimental",
+        "first_night_order": "-",
+        "night_order": 18.0,
+        "ability": [
+            "Pick player(s) at night"
+        ],
+        "type": "Demon",
+        "icon": "https://wiki.bloodontheclocktower.com/images/1/18/Icon_alhadikhia.png"
+    },
+    {
+        "name": "Alchemist",
+        "script": "Experimental",
+        "first_night_order": 4.0,
+        "night_order": "-",
+        "ability": [
+            "Passive"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/5/54/Icon_alchemist.png"
+    },
+    {
+        "name": "Alsaahir",
+        "script": "Experimental",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Daytime ability"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/8/8e/Icon_alsaahir.png"
+    },
+    {
+        "name": "Amnesiac",
+        "script": "Experimental",
+        "first_night_order": "?",
+        "night_order": "?",
+        "ability": [
+            "Passive",
+            "Pick player(s) at night",
+            "Pick character(s) at night",
+            "Daytime ability",
+            "Setup"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/2/26/Icon_amnesiac.png"
+    },
+    {
+        "name": "Apprentice",
+        "script": "Bad Moon Rising",
+        "first_night_order": 2.0,
+        "night_order": "-",
+        "ability": [
+            "Passive"
+        ],
+        "type": "Traveller",
+        "icon": "https://wiki.bloodontheclocktower.com/images/0/03/Icon_apprentice.png"
+    },
+    {
+        "name": "Artist",
+        "script": "Sects & Violets",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Daytime ability"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/1/1a/Icon_artist.png"
+    },
+    {
+        "name": "Assassin",
+        "script": "Bad Moon Rising",
+        "first_night_order": "-",
+        "night_order": 19.0,
+        "ability": [
+            "Pick player(s) at night"
+        ],
+        "type": "Minion",
+        "icon": "https://wiki.bloodontheclocktower.com/images/4/49/Icon_assassin.png"
+    },
+    {
+        "name": "Atheist",
+        "script": "Experimental",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Passive",
+            "Setup"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/4/43/Icon_atheist.png"
+    },
+    {
+        "name": "Balloonist",
+        "script": "Experimental",
+        "first_night_order": 16.0,
+        "night_order": 22.0,
+        "ability": [
+            "Learn info at night"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/c/cb/Icon_balloonist.png"
+    },
+    {
+        "name": "Banshee",
+        "script": "Experimental",
+        "first_night_order": "-",
+        "night_order": 20.0,
+        "ability": [
+            "Passive"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/6/63/Icon_banshee.png"
+    },
+    {
+        "name": "Barber",
+        "script": "Sects & Violets",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Passive"
+        ],
+        "type": "Outsider",
+        "icon": "https://wiki.bloodontheclocktower.com/images/1/16/Icon_barber.png"
+    },
+    {
+        "name": "Barista",
+        "script": "Sects & Violets",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Passive"
+        ],
+        "type": "Traveller",
+        "icon": "https://wiki.bloodontheclocktower.com/images/2/24/Icon_barista.png"
+    },
+    {
+        "name": "Baron",
+        "script": "Trouble Brewing",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Setup"
+        ],
+        "type": "Minion",
+        "icon": "https://wiki.bloodontheclocktower.com/images/6/6d/Icon_baron.png"
+    },
+    {
+        "name": "Beggar",
+        "script": "Trouble Brewing",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Passive"
+        ],
+        "type": "Traveller",
+        "icon": "https://wiki.bloodontheclocktower.com/images/e/e3/Icon_beggar.png"
+    },
+    {
+        "name": "Bishop",
+        "script": "Bad Moon Rising",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Passive"
+        ],
+        "type": "Traveller",
+        "icon": "https://wiki.bloodontheclocktower.com/images/7/71/Icon_bishop.png"
+    },
+    {
+        "name": "Boffin",
+        "script": "Experimental",
+        "first_night_order": 3.0,
+        "night_order": "-",
+        "ability": [
+            "Passive"
+        ],
+        "type": "Minion",
+        "icon": "https://wiki.bloodontheclocktower.com/images/e/e0/Icon_boffin.png"
+    },
+    {
+        "name": "Bone Collector",
+        "script": "Sects & Violets",
+        "first_night_order": "-",
+        "night_order": 1.0,
+        "ability": [
+            "Pick player(s) at night"
+        ],
+        "type": "Traveller",
+        "icon": "https://wiki.bloodontheclocktower.com/images/9/9e/Icon_bonecollector.png"
+    },
+    {
+        "name": "Boomdandy",
+        "script": "Experimental",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Passive"
+        ],
+        "type": "Minion",
+        "icon": "https://wiki.bloodontheclocktower.com/images/2/20/Icon_boomdandy.png"
+    },
+    {
+        "name": "Bounty Hunter",
+        "script": "Experimental",
+        "first_night_order": 16.0,
+        "night_order": 22.0,
+        "ability": [
+            "Start knowing info",
+            "Learn info at night",
+            "Passive"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/5/5b/Icon_bountyhunter.png"
+    },
+    {
+        "name": "Bureaucrat",
+        "script": "Trouble Brewing",
+        "first_night_order": 2.0,
+        "night_order": 1.0,
+        "ability": [
+            "Pick player(s) at night"
+        ],
+        "type": "Traveller",
+        "icon": "https://wiki.bloodontheclocktower.com/images/b/b1/Icon_bureaucrat.png"
+    },
+    {
+        "name": "Butcher",
+        "script": "Sects & Violets",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Daytime ability"
+        ],
+        "type": "Traveller",
+        "icon": "https://wiki.bloodontheclocktower.com/images/e/e3/Icon_butcher.png"
+    },
+    {
+        "name": "Butler",
+        "script": "Trouble Brewing",
+        "first_night_order": 16.0,
+        "night_order": 22.0,
+        "ability": [
+            "Pick player(s) at night"
+        ],
+        "type": "Outsider",
+        "icon": "https://wiki.bloodontheclocktower.com/images/1/19/Icon_butler.png"
+    },
+    {
+        "name": "Cacklejack",
+        "script": "Experimental",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Daytime ability"
+        ],
+        "type": "Traveller",
+        "icon": "https://wiki.bloodontheclocktower.com/images/d/d7/Icon_cacklejack.png"
+    },
+    {
+        "name": "Cannibal",
+        "script": "Experimental",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Passive"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/8/8e/Icon_cannibal.png"
+    },
+    {
+        "name": "Cerenovus",
+        "script": "Sects & Violets",
+        "first_night_order": 14.0,
+        "night_order": 11.0,
+        "ability": [
+            "Pick player(s) at night",
+            "Pick character(s) at night"
+        ],
+        "type": "Minion",
+        "icon": "https://wiki.bloodontheclocktower.com/images/4/45/Icon_cerenovus.png"
+    },
+    {
+        "name": "Chambermaid",
+        "script": "Bad Moon Rising",
+        "first_night_order": 21.0,
+        "night_order": 25.0,
+        "ability": [
+            "Pick player(s) at night"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/8/87/Icon_chambermaid.png"
+    },
+    {
+        "name": "Chef",
+        "script": "Trouble Brewing",
+        "first_night_order": 16.0,
+        "night_order": "-",
+        "ability": [
+            "Start knowing info"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/d/d5/Icon_chef.png"
+    },
+    {
+        "name": "Choirboy",
+        "script": "Experimental",
+        "first_night_order": "-",
+        "night_order": 22.0,
+        "ability": [
+            "Learn info at night",
+            "Setup"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/d/d9/Icon_choirboy.png"
+    },
+    {
+        "name": "Clockmaker",
+        "script": "Sects & Violets",
+        "first_night_order": 16.0,
+        "night_order": "-",
+        "ability": [
+            "Start knowing info"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/3/3d/Icon_clockmaker.png"
+    },
+    {
+        "name": "Courtier",
+        "script": "Bad Moon Rising",
+        "first_night_order": 12.0,
+        "night_order": 6.0,
+        "ability": [
+            "Pick character(s) at night"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/e/e0/Icon_courtier.png"
+    },
+    {
+        "name": "Cult Leader",
+        "script": "Experimental",
+        "first_night_order": 17.0,
+        "night_order": 22.0,
+        "ability": [
+            "Daytime ability"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/6/6c/Icon_cultleader.png"
+    },
+    {
+        "name": "Damsel",
+        "script": "Experimental",
+        "first_night_order": 16.0,
+        "night_order": "-",
+        "ability": [
+            "Passive"
+        ],
+        "type": "Outsider",
+        "icon": "https://wiki.bloodontheclocktower.com/images/d/dc/Icon_damsel.png"
+    },
+    {
+        "name": "Deviant",
+        "script": "Sects & Violets",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Passive"
+        ],
+        "type": "Traveller",
+        "icon": "https://wiki.bloodontheclocktower.com/images/a/a5/Icon_deviant.png"
+    },
+    {
+        "name": "Devil's Advocate",
+        "script": "Bad Moon Rising",
+        "first_night_order": 14.0,
+        "night_order": 11.0,
+        "ability": [
+            "Pick player(s) at night"
+        ],
+        "type": "Minion",
+        "icon": "https://wiki.bloodontheclocktower.com/images/0/09/Icon_devilsadvocate.png"
+    },
+    {
+        "name": "Dreamer",
+        "script": "Sects & Violets",
+        "first_night_order": 16.0,
+        "night_order": 22.0,
+        "ability": [
+            "Pick player(s) at night"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/f/f2/Icon_dreamer.png"
+    },
+    {
+        "name": "Drunk",
+        "script": "Trouble Brewing",
+        "first_night_order": "?",
+        "night_order": "?",
+        "ability": [
+            "Passive"
+        ],
+        "type": "Outsider",
+        "icon": "https://wiki.bloodontheclocktower.com/images/4/4a/Icon_drunk.png"
+    },
+    {
+        "name": "Empath",
+        "script": "Trouble Brewing",
+        "first_night_order": 16.0,
+        "night_order": 22.0,
+        "ability": [
+            "Learn info at night"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/1/13/Icon_empath.png"
+    },
+    {
+        "name": "Engineer",
+        "script": "Experimental",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Pick character(s) at night"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/b/b9/Icon_engineer.png"
+    },
+    {
+        "name": "Evil Twin",
+        "script": "Sects & Violets",
+        "first_night_order": 14.0,
+        "night_order": "-",
+        "ability": [
+            "Start knowing info",
+            "Passive"
+        ],
+        "type": "Minion",
+        "icon": "https://wiki.bloodontheclocktower.com/images/f/f4/Icon_eviltwin.png"
+    },
+    {
+        "name": "Exorcist",
+        "script": "Bad Moon Rising",
+        "first_night_order": "-",
+        "night_order": 16.0,
+        "ability": [
+            "Pick player(s) at night"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/c/c2/Icon_exorcist.png"
+    },
+    {
+        "name": "Fang Gu",
+        "script": "Sects & Violets",
+        "first_night_order": "-",
+        "night_order": 18.0,
+        "ability": [
+            "Pick player(s) at night",
+            "Setup"
+        ],
+        "type": "Demon",
+        "icon": "https://wiki.bloodontheclocktower.com/images/0/0e/Icon_fanggu.png"
+    },
+    {
+        "name": "Farmer",
+        "script": "Experimental",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Passive"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/f/fe/Icon_farmer.png"
+    },
+    {
+        "name": "Fearmonger",
+        "script": "Experimental",
+        "first_night_order": 14.0,
+        "night_order": 11.0,
+        "ability": [
+            "Pick player(s) at night"
+        ],
+        "type": "Minion",
+        "icon": "https://wiki.bloodontheclocktower.com/images/1/11/Icon_fearmonger.png"
+    },
+    {
+        "name": "Fisherman",
+        "script": "Experimental",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Daytime ability"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/1/19/Icon_fisherman.png"
+    },
+    {
+        "name": "Flowergirl",
+        "script": "Sects & Violets",
+        "first_night_order": "-",
+        "night_order": 22.0,
+        "ability": [
+            "Learn info at night"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/a/ac/Icon_flowergirl.png"
+    },
+    {
+        "name": "Fool",
+        "script": "Bad Moon Rising",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Passive"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/d/d9/Icon_fool.png"
+    },
+    {
+        "name": "Fortune teller",
+        "script": "Trouble Brewing",
+        "first_night_order": 16.0,
+        "night_order": 22.0,
+        "ability": [
+            "Pick player(s) at night"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/9/97/Icon_fortuneteller.png"
+    },
+    {
+        "name": "Gambler",
+        "script": "Bad Moon Rising",
+        "first_night_order": "-",
+        "night_order": 8.0,
+        "ability": [
+            "Pick player(s) at night",
+            "Pick character(s) at night"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/f/fd/Icon_gambler.png"
+    },
+    {
+        "name": "Gangster",
+        "script": "Experimental",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Daytime ability"
+        ],
+        "type": "Traveller",
+        "icon": "https://wiki.bloodontheclocktower.com/images/a/a5/Icon_gangster.png"
+    },
+    {
+        "name": "General",
+        "script": "Experimental",
+        "first_night_order": 20.0,
+        "night_order": 24.0,
+        "ability": [
+            "Learn info at night"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/9/99/Icon_general.png"
+    },
+    {
+        "name": "Gnome",
+        "script": "Experimental",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Daytime ability",
+            "Passive"
+        ],
+        "type": "Traveller",
+        "icon": "https://wiki.bloodontheclocktower.com/images/e/e0/Icon_gnome.png"
+    },
+    {
+        "name": "Goblin",
+        "script": "Experimental",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Daytime ability"
+        ],
+        "type": "Minion",
+        "icon": "https://wiki.bloodontheclocktower.com/images/e/e2/Icon_goblin.png"
+    },
+    {
+        "name": "Godfather",
+        "script": "Bad Moon Rising",
+        "first_night_order": 14.0,
+        "night_order": 19.0,
+        "ability": [
+            "Pick player(s) at night",
+            "Start knowing info",
+            "Setup"
+        ],
+        "type": "Minion",
+        "icon": "https://wiki.bloodontheclocktower.com/images/d/d0/Icon_godfather.png"
+    },
+    {
+        "name": "Golem",
+        "script": "Experimental",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Passive"
+        ],
+        "type": "Outsider",
+        "icon": "https://wiki.bloodontheclocktower.com/images/2/2b/Icon_golem.png"
+    },
+    {
+        "name": "Goon",
+        "script": "Bad Moon Rising",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Passive"
+        ],
+        "type": "Outsider",
+        "icon": "https://wiki.bloodontheclocktower.com/images/6/6f/Icon_goon.png"
+    },
+    {
+        "name": "Gossip",
+        "script": "Bad Moon Rising",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Daytime ability"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/c/c7/Icon_gossip.png"
+    },
+    {
+        "name": "Grandmother",
+        "script": "Bad Moon Rising",
+        "first_night_order": 16.0,
+        "night_order": "-",
+        "ability": [
+            "Start knowing info",
+            "Passive"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/2/26/Icon_grandmother.png"
+    },
+    {
+        "name": "Gunslinger",
+        "script": "Trouble Brewing",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Daytime ability"
+        ],
+        "type": "Traveller",
+        "icon": "https://wiki.bloodontheclocktower.com/images/1/1c/Icon_gunslinger.png"
+    },
+    {
+        "name": "Harlot",
+        "script": "Sects & Violets",
+        "first_night_order": "-",
+        "night_order": 1.0,
+        "ability": [
+            "Pick player(s) at night"
+        ],
+        "type": "Traveller",
+        "icon": "https://wiki.bloodontheclocktower.com/images/6/60/Icon_harlot.png"
+    },
+    {
+        "name": "Harpy",
+        "script": "Experimental",
+        "first_night_order": 14.0,
+        "night_order": 11.0,
+        "ability": [
+            "Pick player(s) at night"
+        ],
+        "type": "Minion",
+        "icon": "https://wiki.bloodontheclocktower.com/images/d/d3/Icon_harpy.png"
+    },
+    {
+        "name": "Hatter",
+        "script": "Experimental",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Passive"
+        ],
+        "type": "Outsider",
+        "icon": "https://wiki.bloodontheclocktower.com/images/4/44/Icon_hatter.png"
+    },
+    {
+        "name": "Heretic",
+        "script": "Experimental",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Passive"
+        ],
+        "type": "Outsider",
+        "icon": "https://wiki.bloodontheclocktower.com/images/4/4a/Icon_heretic.png"
+    },
+    {
+        "name": "Hermit",
+        "script": "Experimental",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Passive"
+        ],
+        "type": "Outsider",
+        "icon": "https://wiki.bloodontheclocktower.com/images/b/b4/Icon_hermit.png"
+    },
+    {
+        "name": "High Priestess",
+        "script": "Experimental",
+        "first_night_order": 20.0,
+        "night_order": 24.0,
+        "ability": [
+            "Learn info at night"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/6/63/Icon_highpriestess.png"
+    },
+    {
+        "name": "Huntsman",
+        "script": "Experimental",
+        "first_night_order": 16.0,
+        "night_order": 22.0,
+        "ability": [
+            "Pick player(s) at night",
+            "Setup"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/a/a1/Icon_huntsman.png"
+    },
+    {
+        "name": "Imp",
+        "script": "Trouble Brewing",
+        "first_night_order": "-",
+        "night_order": 18.0,
+        "ability": [
+            "Pick player(s) at night"
+        ],
+        "type": "Demon",
+        "icon": "https://wiki.bloodontheclocktower.com/images/5/5c/Icon_imp.png"
+    },
+    {
+        "name": "Innkeeper",
+        "script": "Bad Moon Rising",
+        "first_night_order": "-",
+        "night_order": 7.0,
+        "ability": [
+            "Pick player(s) at night"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/0/0c/Icon_innkeeper.png"
+    },
+    {
+        "name": "Investigator",
+        "script": "Trouble Brewing",
+        "first_night_order": 16.0,
+        "night_order": "-",
+        "ability": [
+            "Start knowing info"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/a/ad/Icon_investigator.png"
+    },
+    {
+        "name": "Judge",
+        "script": "Bad Moon Rising",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Daytime ability"
+        ],
+        "type": "Traveller",
+        "icon": "https://wiki.bloodontheclocktower.com/images/5/59/Icon_judge.png"
+    },
+    {
+        "name": "Juggler",
+        "script": "Sects & Violets",
+        "first_night_order": "-",
+        "night_order": 22.0,
+        "ability": [
+            "Daytime ability"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/4/42/Icon_juggler.png"
+    },
+    {
+        "name": "Kazali",
+        "script": "Experimental",
+        "first_night_order": 1.0,
+        "night_order": 18.0,
+        "ability": [
+            "Pick player(s) at night",
+            "Pick character(s) at night",
+            "Setup"
+        ],
+        "type": "Demon",
+        "icon": "https://wiki.bloodontheclocktower.com/images/3/3c/Icon_kazali.png"
+    },
+    {
+        "name": "King",
+        "script": "Experimental",
+        "first_night_order": "-",
+        "night_order": 22.0,
+        "ability": [
+            "Learn info at night"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/d/dc/Icon_king.png"
+    },
+    {
+        "name": "Klutz",
+        "script": "Sects & Violets",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Passive"
+        ],
+        "type": "Outsider",
+        "icon": "https://wiki.bloodontheclocktower.com/images/b/bc/Icon_klutz.png"
+    },
+    {
+        "name": "Knight",
+        "script": "Experimental",
+        "first_night_order": 16.0,
+        "night_order": "-",
+        "ability": [
+            "Start knowing info"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/8/8e/Icon_knight.png"
+    },
+    {
+        "name": "Legion",
+        "script": "Experimental",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Pick player(s) at night",
+            "Setup"
+        ],
+        "type": "Demon",
+        "icon": "https://wiki.bloodontheclocktower.com/images/c/cb/Icon_legion.png"
+    },
+    {
+        "name": "Leviathan",
+        "script": "Experimental",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Passive"
+        ],
+        "type": "Demon",
+        "icon": "https://wiki.bloodontheclocktower.com/images/a/a7/Icon_leviathan.png"
+    },
+    {
+        "name": "Librarian",
+        "script": "Trouble Brewing",
+        "first_night_order": 16.0,
+        "night_order": "-",
+        "ability": [
+            "Start knowing info"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/e/e0/Icon_librarian.png"
+    },
+    {
+        "name": "Lil' Monsta",
+        "script": "Experimental",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Passive",
+            "Setup"
+        ],
+        "type": "Demon",
+        "icon": "https://wiki.bloodontheclocktower.com/images/c/c3/Icon_lilmonsta.png"
+    },
+    {
+        "name": "Lleech",
+        "script": "Experimental",
+        "first_night_order": 9.0,
+        "night_order": 18.0,
+        "ability": [
+            "Pick player(s) at night",
+            "Passive"
+        ],
+        "type": "Demon",
+        "icon": "https://wiki.bloodontheclocktower.com/images/7/70/Icon_lleech.png"
+    },
+    {
+        "name": "Lord of Typhon",
+        "script": "Experimental",
+        "first_night_order": "-",
+        "night_order": 18.0,
+        "ability": [
+            "Pick player(s) at night",
+            "Setup"
+        ],
+        "type": "Demon",
+        "icon": "https://wiki.bloodontheclocktower.com/images/c/cf/Icon_lordoftyphon.png"
+    },
+    {
+        "name": "Lunatic",
+        "script": "Bad Moon Rising",
+        "first_night_order": 6.0,
+        "night_order": 15.0,
+        "ability": [
+            "Pick player(s) at night"
+        ],
+        "type": "Outsider",
+        "icon": "https://wiki.bloodontheclocktower.com/images/6/64/Icon_lunatic.png"
+    },
+    {
+        "name": "Lycanthrope",
+        "script": "Experimental",
+        "first_night_order": "-",
+        "night_order": 17.0,
+        "ability": [
+            "Pick player(s) at night",
+            "Passive"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/9/92/Icon_lycanthrope.png"
+    },
+    {
+        "name": "Magician",
+        "script": "Experimental",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Passive"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/9/93/Icon_magician.png"
+    },
+    {
+        "name": "Marionette",
+        "script": "Experimental",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Setup"
+        ],
+        "type": "Minion",
+        "icon": "https://wiki.bloodontheclocktower.com/images/c/cf/Icon_marionette.png"
+    },
+    {
+        "name": "Mastermind",
+        "script": "Bad Moon Rising",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Passive"
+        ],
+        "type": "Minion",
+        "icon": "https://wiki.bloodontheclocktower.com/images/d/d5/Icon_mastermind.png"
+    },
+    {
+        "name": "Mathematician",
+        "script": "Sects & Violets",
+        "first_night_order": 22.0,
+        "night_order": 26.0,
+        "ability": [
+            "Learn info at night"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/f/f1/Icon_mathematician.png"
+    },
+    {
+        "name": "Matron",
+        "script": "Bad Moon Rising",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Daytime ability",
+            "Passive"
+        ],
+        "type": "Traveller",
+        "icon": "https://wiki.bloodontheclocktower.com/images/2/21/Icon_matron.png"
+    },
+    {
+        "name": "Mayor",
+        "script": "Trouble Brewing",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Passive"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/a/a1/Icon_mayor.png"
+    },
+    {
+        "name": "Mezepheles",
+        "script": "Experimental",
+        "first_night_order": 14.0,
+        "night_order": "-",
+        "ability": [
+            "Passive"
+        ],
+        "type": "Minion",
+        "icon": "https://wiki.bloodontheclocktower.com/images/f/f2/Icon_mezepheles.png"
+    },
+    {
+        "name": "Minstrel",
+        "script": "Bad Moon Rising",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Passive"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/2/24/Icon_minstrel.png"
+    },
+    {
+        "name": "Monk",
+        "script": "Trouble Brewing",
+        "first_night_order": "-",
+        "night_order": 10.0,
+        "ability": [
+            "Pick player(s) at night"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/7/7c/Icon_monk.png"
+    },
+    {
+        "name": "Moonchild",
+        "script": "Bad Moon Rising",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Passive"
+        ],
+        "type": "Outsider",
+        "icon": "https://wiki.bloodontheclocktower.com/images/d/dc/Icon_moonchild.png"
+    },
+    {
+        "name": "Mutant",
+        "script": "Sects & Violets",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Passive"
+        ],
+        "type": "Outsider",
+        "icon": "https://wiki.bloodontheclocktower.com/images/2/2e/Icon_mutant.png"
+    },
+    {
+        "name": "Nightwatchman",
+        "script": "Experimental",
+        "first_night_order": 16.0,
+        "night_order": 22.0,
+        "ability": [
+            "Pick player(s) at night"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/f/f0/Icon_nightwatchman.png"
+    },
+    {
+        "name": "No Dashii",
+        "script": "Sects & Violets",
+        "first_night_order": "-",
+        "night_order": 18.0,
+        "ability": [
+            "Pick player(s) at night",
+            "Passive"
+        ],
+        "type": "Demon",
+        "icon": "https://wiki.bloodontheclocktower.com/images/e/eb/Icon_nodashii.png"
+    },
+    {
+        "name": "Noble",
+        "script": "Experimental",
+        "first_night_order": 16.0,
+        "night_order": "-",
+        "ability": [
+            "Start knowing info"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/c/cc/Icon_noble.png"
+    },
+    {
+        "name": "Ogre",
+        "script": "Experimental",
+        "first_night_order": 19.0,
+        "night_order": "-",
+        "ability": [
+            "Pick player(s) at night"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/2/25/Icon_ogre.png"
+    },
+    {
+        "name": "Ojo",
+        "script": "Experimental",
+        "first_night_order": "-",
+        "night_order": 18.0,
+        "ability": [
+            "Pick character(s) at night"
+        ],
+        "type": "Demon",
+        "icon": "https://wiki.bloodontheclocktower.com/images/6/6f/Icon_ojo.png"
+    },
+    {
+        "name": "Oracle",
+        "script": "Sects & Violets",
+        "first_night_order": "-",
+        "night_order": 22.0,
+        "ability": [
+            "Learn info at night"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/b/bb/Icon_oracle.png"
+    },
+    {
+        "name": "Organ Grinder",
+        "script": "Experimental",
+        "first_night_order": 14.0,
+        "night_order": 11.0,
+        "ability": [
+            "Passive"
+        ],
+        "type": "Minion",
+        "icon": "https://wiki.bloodontheclocktower.com/images/6/61/Icon_organgrinder.png"
+    },
+    {
+        "name": "Pacifist",
+        "script": "Bad Moon Rising",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Passive"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/5/5d/Icon_pacifist.png"
+    },
+    {
+        "name": "Philosopher",
+        "script": "Sects & Violets",
+        "first_night_order": 4.0,
+        "night_order": 2.0,
+        "ability": [
+            "Pick character(s) at night"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/5/5d/Icon_philosopher.png"
+    },
+    {
+        "name": "Pit-Hag",
+        "script": "Sects & Violets",
+        "first_night_order": "-",
+        "night_order": 12.0,
+        "ability": [
+            "Pick player(s) at night",
+            "Pick character(s) at night"
+        ],
+        "type": "Minion",
+        "icon": "https://wiki.bloodontheclocktower.com/images/6/6b/Icon_pithag.png"
+    },
+    {
+        "name": "Pixie",
+        "script": "Experimental",
+        "first_night_order": 16.0,
+        "night_order": "-",
+        "ability": [
+            "Start knowing info",
+            "Passive"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/d/d5/Icon_pixie.png"
+    },
+    {
+        "name": "Plague Doctor",
+        "script": "Experimental",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Passive"
+        ],
+        "type": "Outsider",
+        "icon": "https://wiki.bloodontheclocktower.com/images/e/e2/Icon_plaguedoctor.png"
+    },
+    {
+        "name": "Po",
+        "script": "Bad Moon Rising",
+        "first_night_order": "-",
+        "night_order": 18.0,
+        "ability": [
+            "Pick player(s) at night"
+        ],
+        "type": "Demon",
+        "icon": "https://wiki.bloodontheclocktower.com/images/b/b2/Icon_po.png"
+    },
+    {
+        "name": "Poisoner",
+        "script": "Trouble Brewing",
+        "first_night_order": 10.0,
+        "night_order": 5.0,
+        "ability": [
+            "Pick player(s) at night"
+        ],
+        "type": "Minion",
+        "icon": "https://wiki.bloodontheclocktower.com/images/b/b1/Icon_poisoner.png"
+    },
+    {
+        "name": "Politician",
+        "script": "Experimental",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Passive"
+        ],
+        "type": "Outsider",
+        "icon": "https://wiki.bloodontheclocktower.com/images/a/a3/Icon_politician.png"
+    },
+    {
+        "name": "Poppy Grower",
+        "script": "Experimental",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Passive"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/9/91/Icon_poppygrower.png"
+    },
+    {
+        "name": "Preacher",
+        "script": "Experimental",
+        "first_night_order": 8.5,
+        "night_order": 4.0,
+        "ability": [
+            "Pick player(s) at night"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/8/82/Icon_preacher.png"
+    },
+    {
+        "name": "Princess",
+        "script": "Experimental",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Passive"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/3/36/Icon_princess.png"
+    },
+    {
+        "name": "Professor",
+        "script": "Bad Moon Rising",
+        "first_night_order": "-",
+        "night_order": 21.0,
+        "ability": [
+            "Pick player(s) at night"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/6/65/Icon_professor.png"
+    },
+    {
+        "name": "Psychopath",
+        "script": "Experimental",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Daytime ability",
+            "Passive"
+        ],
+        "type": "Minion",
+        "icon": "https://wiki.bloodontheclocktower.com/images/a/a3/Icon_psychopath.png"
+    },
+    {
+        "name": "Pukka",
+        "script": "Bad Moon Rising",
+        "first_night_order": 15.0,
+        "night_order": 18.0,
+        "ability": [
+            "Pick player(s) at night"
+        ],
+        "type": "Demon",
+        "icon": "https://wiki.bloodontheclocktower.com/images/f/f4/Icon_pukka.png"
+    },
+    {
+        "name": "Puzzlemaster",
+        "script": "Experimental",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Daytime ability",
+            "Passive"
+        ],
+        "type": "Outsider",
+        "icon": "https://wiki.bloodontheclocktower.com/images/7/7a/Icon_puzzlemaster.png"
+    },
+    {
+        "name": "Ravenkeeper",
+        "script": "Trouble Brewing",
+        "first_night_order": "-",
+        "night_order": 22.0,
+        "ability": [
+            "Pick player(s) at night",
+            "Passive"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/e/ef/Icon_ravenkeeper.png"
+    },
+    {
+        "name": "Recluse",
+        "script": "Trouble Brewing",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Passive"
+        ],
+        "type": "Outsider",
+        "icon": "https://wiki.bloodontheclocktower.com/images/6/60/Icon_recluse.png"
+    },
+    {
+        "name": "Riot",
+        "script": "Experimental",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Passive"
+        ],
+        "type": "Demon",
+        "icon": "https://wiki.bloodontheclocktower.com/images/2/2d/Icon_riot.png"
+    },
+    {
+        "name": "Sage",
+        "script": "Sects & Violets",
+        "first_night_order": "-",
+        "night_order": 20.0,
+        "ability": [
+            "Passive"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/a/a0/Icon_sage.png"
+    },
+    {
+        "name": "Sailor",
+        "script": "Bad Moon Rising",
+        "first_night_order": 8.0,
+        "night_order": 3.0,
+        "ability": [
+            "Pick player(s) at night"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/1/16/Icon_sailor.png"
+    },
+    {
+        "name": "Saint",
+        "script": "Trouble Brewing",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Passive"
+        ],
+        "type": "Outsider",
+        "icon": "https://wiki.bloodontheclocktower.com/images/c/c9/Icon_saint.png"
+    },
+    {
+        "name": "Savant",
+        "script": "Sects & Violets",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Daytime ability"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/d/d5/Icon_savant.png"
+    },
+    {
+        "name": "Scapegoat",
+        "script": "Trouble Brewing",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Passive"
+        ],
+        "type": "Traveller",
+        "icon": "https://wiki.bloodontheclocktower.com/images/3/3a/Icon_scapegoat.png"
+    },
+    {
+        "name": "Scarlet Woman",
+        "script": "Trouble Brewing",
+        "first_night_order": "-",
+        "night_order": 13.0,
+        "ability": [
+            "Passive"
+        ],
+        "type": "Minion",
+        "icon": "https://wiki.bloodontheclocktower.com/images/1/13/Icon_scarletwoman.png"
+    },
+    {
+        "name": "Seamstress",
+        "script": "Sects & Violets",
+        "first_night_order": 16.0,
+        "night_order": 22.0,
+        "ability": [
+            "Pick player(s) at night"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/5/53/Icon_seamstress.png"
+    },
+    {
+        "name": "Shabaloth",
+        "script": "Bad Moon Rising",
+        "first_night_order": "-",
+        "night_order": 18.0,
+        "ability": [
+            "Pick player(s) at night"
+        ],
+        "type": "Demon",
+        "icon": "https://wiki.bloodontheclocktower.com/images/1/1f/Icon_shabaloth.png"
+    },
+    {
+        "name": "Shugenja",
+        "script": "Experimental",
+        "first_night_order": 16.0,
+        "night_order": "-",
+        "ability": [
+            "Start knowing info"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/1/11/Icon_shugenja.png"
+    },
+    {
+        "name": "Slayer",
+        "script": "Trouble Brewing",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Daytime ability"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/d/d3/Icon_slayer.png"
+    },
+    {
+        "name": "Snake Charmer",
+        "script": "Sects & Violets",
+        "first_night_order": 13.0,
+        "night_order": 9.0,
+        "ability": [
+            "Pick player(s) at night"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/0/08/Icon_snakecharmer.png"
+    },
+    {
+        "name": "Snitch",
+        "script": "Experimental",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Passive"
+        ],
+        "type": "Outsider",
+        "icon": "https://wiki.bloodontheclocktower.com/images/c/c1/Icon_snitch.png"
+    },
+    {
+        "name": "Soldier",
+        "script": "Trouble Brewing",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Passive"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/c/c3/Icon_soldier.png"
+    },
+    {
+        "name": "Spy",
+        "script": "Trouble Brewing",
+        "first_night_order": 18.0,
+        "night_order": 23.0,
+        "ability": [
+            "Learn info at night"
+        ],
+        "type": "Minion",
+        "icon": "https://wiki.bloodontheclocktower.com/images/5/54/Icon_spy.png"
+    },
+    {
+        "name": "Steward",
+        "script": "Experimental",
+        "first_night_order": 16.0,
+        "night_order": "-",
+        "ability": [
+            "Start knowing info"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/f/fe/Icon_steward.png"
+    },
+    {
+        "name": "Summoner",
+        "script": "Experimental",
+        "first_night_order": 7.0,
+        "night_order": 14.0,
+        "ability": [
+            "Pick player(s) at night",
+            "Pick character(s) at night",
+            "Setup"
+        ],
+        "type": "Minion",
+        "icon": "https://wiki.bloodontheclocktower.com/images/1/1a/Icon_summoner.png"
+    },
+    {
+        "name": "Sweetheart",
+        "script": "Sects & Violets",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Passive"
+        ],
+        "type": "Outsider",
+        "icon": "https://wiki.bloodontheclocktower.com/images/6/6a/Icon_sweetheart.png"
+    },
+    {
+        "name": "Tea Lady",
+        "script": "Bad Moon Rising",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Passive"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/1/16/Icon_tealady.png"
+    },
+    {
+        "name": "Thief",
+        "script": "Trouble Brewing",
+        "first_night_order": 2.0,
+        "night_order": 1.0,
+        "ability": [
+            "Pick player(s) at night"
+        ],
+        "type": "Traveller",
+        "icon": "https://wiki.bloodontheclocktower.com/images/7/77/Icon_thief.png"
+    },
+    {
+        "name": "Tinker",
+        "script": "Bad Moon Rising",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Passive"
+        ],
+        "type": "Outsider",
+        "icon": "https://wiki.bloodontheclocktower.com/images/9/98/Icon_tinker.png"
+    },
+    {
+        "name": "Town Crier",
+        "script": "Sects & Violets",
+        "first_night_order": "-",
+        "night_order": 22.0,
+        "ability": [
+            "Learn info at night"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/e/ef/Icon_towncrier.png"
+    },
+    {
+        "name": "Undertaker",
+        "script": "Trouble Brewing",
+        "first_night_order": "-",
+        "night_order": 22.0,
+        "ability": [
+            "Learn info at night"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/0/05/Icon_undertaker.png"
+    },
+    {
+        "name": "Vigormortis",
+        "script": "Sects & Violets",
+        "first_night_order": "-",
+        "night_order": 18.0,
+        "ability": [
+            "Pick player(s) at night",
+            "Setup"
+        ],
+        "type": "Demon",
+        "icon": "https://wiki.bloodontheclocktower.com/images/1/1a/Icon_vigormortis.png"
+    },
+    {
+        "name": "Village Idiot",
+        "script": "Experimental",
+        "first_night_order": 16.0,
+        "night_order": 22.0,
+        "ability": [
+            "Pick player(s) at night",
+            "Setup"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/d/da/Icon_villageidiot.png"
+    },
+    {
+        "name": "Virgin",
+        "script": "Trouble Brewing",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Passive"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/d/d3/Icon_virgin.png"
+    },
+    {
+        "name": "Vizier",
+        "script": "Experimental",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Daytime ability"
+        ],
+        "type": "Minion",
+        "icon": "https://wiki.bloodontheclocktower.com/images/a/a4/Icon_vizier.png"
+    },
+    {
+        "name": "Vortox",
+        "script": "Sects & Violets",
+        "first_night_order": "-",
+        "night_order": 18.0,
+        "ability": [
+            "Pick player(s) at night",
+            "Passive"
+        ],
+        "type": "Demon",
+        "icon": "https://wiki.bloodontheclocktower.com/images/8/89/Icon_vortox.png"
+    },
+    {
+        "name": "Voudon",
+        "script": "Bad Moon Rising",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Passive"
+        ],
+        "type": "Traveller",
+        "icon": "https://wiki.bloodontheclocktower.com/images/6/6d/Icon_voudon.png"
+    },
+    {
+        "name": "Washerwoman",
+        "script": "Trouble Brewing",
+        "first_night_order": 16.0,
+        "night_order": "-",
+        "ability": [
+            "Pick player(s) at night"
+        ],
+        "type": "Townsfolk",
+        "icon": "https://wiki.bloodontheclocktower.com/images/8/85/Icon_washerwoman.png"
+    },
+    {
+        "name": "Widow",
+        "script": "Experimental",
+        "first_night_order": 11.0,
+        "night_order": "-",
+        "ability": [
+            "Start knowing info",
+            "Pick player(s) at night"
+        ],
+        "type": "Minion",
+        "icon": "https://wiki.bloodontheclocktower.com/images/9/99/Icon_widow.png"
+    },
+    {
+        "name": "Witch",
+        "script": "Sects & Violets",
+        "first_night_order": 14.0,
+        "night_order": 11.0,
+        "ability": [
+            "Pick player(s) at night"
+        ],
+        "type": "Minion",
+        "icon": "https://wiki.bloodontheclocktower.com/images/7/7b/Icon_witch.png"
+    },
+    {
+        "name": "Wizard",
+        "script": "Experimental",
+        "first_night_order": "?",
+        "night_order": "?",
+        "ability": [
+            "Daytime ability"
+        ],
+        "type": "Minion",
+        "icon": "https://wiki.bloodontheclocktower.com/images/b/b5/Icon_wizard.png"
+    },
+    {
+        "name": "Wraith",
+        "script": "Experimental",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Passive"
+        ],
+        "type": "Minion",
+        "icon": "https://wiki.bloodontheclocktower.com/images/8/8f/Icon_wraith.png"
+    },
+    {
+        "name": "Xaan",
+        "script": "Experimental",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Passive"
+        ],
+        "type": "Minion",
+        "icon": "https://wiki.bloodontheclocktower.com/images/0/0c/Icon_xaan.png"
+    },
+    {
+        "name": "Yaggababble",
+        "script": "Experimental",
+        "first_night_order": 5.0,
+        "night_order": "-",
+        "ability": [
+            "Daytime ability"
+        ],
+        "type": "Demon",
+        "icon": "https://wiki.bloodontheclocktower.com/images/0/08/Icon_yaggababble.png"
+    },
+    {
+        "name": "Zealot",
+        "script": "Experimental",
+        "first_night_order": "-",
+        "night_order": "-",
+        "ability": [
+            "Passive"
+        ],
+        "type": "Outsider",
+        "icon": "https://wiki.bloodontheclocktower.com/images/1/16/Icon_zealot.png"
+    },
+    {
+        "name": "Zombuul",
+        "script": "Bad Moon Rising",
+        "first_night_order": "-",
+        "night_order": 18.0,
+        "ability": [
+            "Pick player(s) at night",
+            "Passive"
+        ],
+        "type": "Demon",
+        "icon": "https://wiki.bloodontheclocktower.com/images/1/15/Icon_zombuul.png"
+    }
+]
