@@ -192,7 +192,7 @@ setup();
 
 document.getElementById("newPuzzle").addEventListener("click", () => {
     const index = Math.floor(Math.random() * data.length);
-    target = data.filter(e => e.name === "Godfather")[0];
+    target = data[index];
     console.log(target);
     setup();
 });
