@@ -16,11 +16,7 @@ function getDailyIndex() {
     return ix % data.length;
 }
 
-const index = getDailyIndex();
-
-const daysSinceEpoch = Math.floor(Date.now() / (1000 * 60 * 60 * 24));
-
-let target = data[index];
+let target = data[getDailyIndex()];
 console.log(target);
 
 
@@ -64,11 +60,11 @@ function makeGuess(row) {
     for (const a of row.ability) {
         if (target.ability.find(e => e === a) !== undefined) {
             matches += 1;
-            break;
         }
     }
     let abilityClass = "incorrect";
     if (matches > 0) {
+        console.log(matches, target.ability.length, row.ability.length);
         if (matches === target.ability.length && matches === row.ability.length) {
             abilityClass = "correct";
         } else {
@@ -87,46 +83,59 @@ function makeGuess(row) {
     }
 }
 
-for (const row of data) {
-    const el = document.createElement('div');
-    el.className = "choiceBtn";
-    el.innerHTML = `<img src="${row.icon}" width="64px" height="64px"></img><p style="margin-left: 10px;">${row.name}</p>`;
-    el.tabIndex  = 0;
-    choice.appendChild(el);
+function setup() {
+    while (choice.children.length > 1) {
+        choice.removeChild(choice.lastElementChild);
+    }
+    const root = document.querySelector("#guesses tbody");
+    root.replaceChildren();
 
-    const onFocus = () => {
-        el.classList.add("focus");
-        console.log(el.className, el.classList);
-    };
+    for (const row of data) {
+        const el = document.createElement('div');
+        el.className = "choiceBtn";
+        el.innerHTML = `<img src="${row.icon}" width="64px" height="64px"></img><p style="margin-left: 10px;">${row.name}</p>`;
+        el.tabIndex  = 0;
+        choice.appendChild(el);
 
-    const onBlur = () => {
-        el.classList.remove("focus");
-        console.log(el.className, el.classList);
-    };
+        const onFocus = () => {
+            el.classList.add("focus");
+            console.log(el.className, el.classList);
+        };
 
-    const onClick = () => {
-        const root = document.getElementById('guesses');
-        choice.removeChild(el);
-        makeGuess(row);
+        const onBlur = () => {
+            el.classList.remove("focus");
+            console.log(el.className, el.classList);
+        };
+
+        const onClick = () => {
+            const root = document.getElementById('guesses');
+            choice.removeChild(el);
+            makeGuess(row);
 
 
-        input.focus();
-        input.value = '';
+            input.focus();
+            input.value = '';
 
-        filterFunction();
-    };
+            filterFunction();
+        };
 
-    const onKey = (e) => {
-        if (e.key === "Enter") {
-            onClick();
-        } 
+        const onKey = (e) => {
+            if (e.key === "Enter") {
+                onClick();
+            } 
+        }
+
+
+        el.addEventListener('click', onClick);
+        el.addEventListener('focus', onFocus);
+        el.addEventListener('blur', onBlur);
+        el.addEventListener('keydown', onKey);
     }
 
-
-    el.addEventListener('click', onClick);
-    el.addEventListener('focus', onFocus);
-    el.addEventListener('blur', onBlur);
-    el.addEventListener('keydown', onKey);
+    input.value = '';
+    input.disabled = false;
+    input.focus();
+    filterFunction();
 }
 
 function filterFunction() {
@@ -179,3 +188,11 @@ input.addEventListener('blur', () => {
 
 
 filterFunction();
+setup();
+
+document.getElementById("newPuzzle").addEventListener("click", () => {
+    const index = Math.floor(Math.random() * data.length);
+    target = data.filter(e => e.name === "Godfather")[0];
+    console.log(target);
+    setup();
+});

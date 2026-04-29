@@ -38,7 +38,6 @@
 
 .dropdown-content {
   display: block;
-  position: absolute;
   background-color: #f6f6f6;
   min-width: 200px;
   overflow: auto;
@@ -117,14 +116,14 @@
     </table>
 </div>
 
-<div id="dropdown">
+<div id="dropdown" style="display: flex; gap: 16px">
   <div id="characterChoice" class="dropdown-content">
     <input type="text" placeholder="Guess.." id="myInput">
   </div>
+  <button id="newPuzzle" style="height: 48px">New Puzzle</button>
 </div>
 
-<br>
-<br>
+
 <h2>Rules</h2>
 <div style="max-width: 600px">
 <p>Try and guess the correct BOTC character. A new one becomes available each day (local timezone). After each guess, you will learn how correct you are for all columns: Green = fully correct, yellow = partially correct, Red = wrong.</p>
