@@ -109,10 +109,11 @@ for (const row of data) {
         choice.removeChild(el);
         makeGuess(row);
 
-        filterFunction();
 
         input.focus();
         input.value = '';
+
+        filterFunction();
     };
 
     const onKey = (e) => {
